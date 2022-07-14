@@ -2,9 +2,11 @@
 
 佛系程序员一枚、苦修、悟心、知行合一、may be have fun~
 
-主修：Android，副修：想玩的都想学，不想学的打死也玩不动。
+主修：Android，副修：哲学
 
-## 个人主业
+想玩的都想学，不想学的打死也玩不动。
+
+## 我的
 
 * [主页](https://www.simplepeng.com)
 * [博客](https://www.simplepeng.com/blog)
