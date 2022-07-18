@@ -15,8 +15,8 @@
 
 ## 赞助
 
-* [收款嘛](https://simplepeng.com/merge_pay_code/)
-* [赞助列表](https://simplepeng.com/Sponsor/)
+* [定向扶贫，不寒碜~](https://simplepeng.com/merge_pay_code/)
+* [打赏的大佬们](https://simplepeng.com/Sponsor/)
 
 ## 统计
 
