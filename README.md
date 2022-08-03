@@ -1,4 +1,4 @@
-## simplepeng
+## SimplePeng
 
 佛系程序员一枚、苦修、悟心、知行合一、may be have fun~
 
