@@ -1,10 +1,8 @@
-## SimplePeng
+## simplepeng
 
 佛系程序员一枚、苦修、悟心、知行合一、may be have fun~
 
 主修：编程，副修：哲学，工作：Android 
-
-想玩的都想学，不想学的打死也玩不动。
 
 ## 我的
 
