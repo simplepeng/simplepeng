@@ -16,6 +16,7 @@
 | [SpiderMan](https://github.com/simplepeng/SpiderMan)         | 崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄 |
 | [PickerLayoutManager](https://github.com/simplepeng/PickerLayoutManager) | 一个基于自定义LayoutManager的PickerView               |
 | [StackLayoutManager](https://github.com/simplepeng/StackLayoutManager) | 一个可以堆叠的LinearLayoutManager                     |
+| [MaxLineLayoutManager](https://github.com/simplepeng/MaxLineLayoutManager) | 当itemCount超过设定数量就固定高度的LayoutManager      |
 | [Updater](https://github.com/simplepeng/Updater)             | 基于DownloadManager封装的更新器,使用超简单！          |
 | [VerCodeLayout](https://github.com/simplepeng/VerCodeLayout) | 一个超好用的验证码，卡号，车牌号，IP地址->输入控件    |
 | [ViewPagerTransforms](https://github.com/simplepeng/ViewPagerTransforms) | 给ViewPager加上切换动画                               |
@@ -33,6 +34,8 @@
 | [StateAdapter](https://github.com/simplepeng/StateAdapter)   | 一个有加载状态的Adapter                               |
 | [LoadMoreAdapter](https://github.com/simplepeng/LoadMoreAdapter) | 给RecyclerView添加可以加载更多的Adapter               |
 | [NiceUI](https://github.com/simplepeng/NiceUI)               | 一些小巧但实用的UI组件                                |
-|                                                              |                                                       |
-|                                                              |                                                       |
+| [ParamsInterceptor](https://github.com/simplepeng/ParamsInterceptor) | 给OkHttp添加公共请求参数的Interceptor                 |
+| [ZebraProgressBar](https://github.com/simplepeng/ZebraProgressBar) | 条纹进度条                                            |
+| [PagerGridView](https://github.com/simplepeng/PagerGridView) | 快速实现网格分页切换布局                              |
+| [BubbleView](https://github.com/simplepeng/BubbleView)       | 模仿QQ水泡拖拽效果，加破碎粒子效果                    |
 
