@@ -15,14 +15,24 @@
 | ------------------------------------------------------------ | ----------------------------------------------------- |
 | [SpiderMan](https://github.com/simplepeng/SpiderMan)         | 崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄 |
 | [PickerLayoutManager](https://github.com/simplepeng/PickerLayoutManager) | 一个基于自定义LayoutManager的PickerView               |
+| [StackLayoutManager](https://github.com/simplepeng/StackLayoutManager) | 一个可以堆叠的LinearLayoutManager                     |
 | [Updater](https://github.com/simplepeng/Updater)             | 基于DownloadManager封装的更新器,使用超简单！          |
 | [VerCodeLayout](https://github.com/simplepeng/VerCodeLayout) | 一个超好用的验证码，卡号，车牌号，IP地址->输入控件    |
-| [ViewPagerTransforms](https://github.com/simplepeng/ViewPagerTransforms) | 给viewpager加上切换动画                               |
+| [ViewPagerTransforms](https://github.com/simplepeng/ViewPagerTransforms) | 给ViewPager加上切换动画                               |
 | [BitmapCanary](https://github.com/simplepeng/BitmapCanary)   | Android Bitmap大图监控                                |
 | [HeGuiChecker](https://github.com/simplepeng/HeGuiChecker)   | 基于Hook方案的合规化检测器                            |
 | [ItemDecor](https://github.com/simplepeng/ItemDecor)         | 轻松实现RecyclerView的Divider                         |
 | [NiceKTX](https://github.com/simplepeng/NiceKTX)             | 一个超赞的Kotlin扩展库                                |
 | [ActivityResultProxy](https://github.com/simplepeng/ActivityResultProxy) | 简化获取Activity返回值的库                            |
+| [NineGridView](https://github.com/simplepeng/NineGridView)   | 可能最通用的九宫格布局                                |
 | [AddImageView](https://github.com/simplepeng/AddImageView)   | 选择照片的自定义九宫格View，扩展性极高                |
+| [BuildingRecyclerView](https://github.com/simplepeng/BuildingRecyclerView) | 像修建楼房一样使用RecyclerView                        |
+| [BuildApkWatcher](https://github.com/simplepeng/BuildApkWatcher) | 监听应用安装完成                                      |
+| [MarketHelper](https://github.com/simplepeng/MarketHelper)   | 跳转应用商店的帮助类                                  |
+| [NiceStateView](https://github.com/simplepeng/NiceStateView) | 一个超赞的页面状态切换库                              |
+| [StateAdapter](https://github.com/simplepeng/StateAdapter)   | 一个有加载状态的Adapter                               |
+| [LoadMoreAdapter](https://github.com/simplepeng/LoadMoreAdapter) | 给RecyclerView添加可以加载更多的Adapter               |
+| [NiceUI](https://github.com/simplepeng/NiceUI)               | 一些小巧但实用的UI组件                                |
+|                                                              |                                                       |
 |                                                              |                                                       |
 
