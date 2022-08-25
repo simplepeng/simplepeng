@@ -23,8 +23,9 @@
 * [ActivityResultProxy](https://github.com/simplepeng/ActivityResultProxy) - 简化获取Activity返回值的库
 * [AddImageView](https://github.com/simplepeng/AddImageView) - 选择照片的自定义九宫格View，扩展性极高
 
-| [SpiderMan](https://github.com/simplepeng/SpiderMan)         | 崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄 |
+| 名称                                                         | 简介                                                  |
 | ------------------------------------------------------------ | ----------------------------------------------------- |
+| [SpiderMan](https://github.com/simplepeng/SpiderMan)         | 崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄 |
 | [PickerLayoutManager](https://github.com/simplepeng/PickerLayoutManager) | 一个基于自定义LayoutManager的PickerView               |
 |                                                              |                                                       |
 |                                                              |                                                       |
